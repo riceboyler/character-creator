@@ -6,7 +6,6 @@
   text-align: center;
 }
 
-a {
-  color: white;
-  text-decoration: underline;
+.footer a {
+  color: inherit;
 }
